@@ -1,4 +1,4 @@
-# 
+# premium NFT Flip Bot for nft arbitrage bot | slippage-control & mint-detection is the best nft arbitrage bot, featuring slippage-control and mint-detection. Fast, smart, and
 
 
 
